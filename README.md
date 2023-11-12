@@ -1,21 +1,9 @@
-# My Favorite Movies and Series
+# My Favorite Movie and Series
 
-**TOP TIER**
-1. How To Train Your Dragon (Movie)
-2. HTTYD: Riders of Berk (Series)
-3. How To Train Your Dragon 2 (Movie)
-4. HTTYD: Race to the Edge (Series)
-5. How To Train Your Dragon 3 (Movie)
-6. Tensei Shitara Slime Datta Ken (Series)
-7. Overlord (Series)
-8. Code Geass (Series)
-9. Horimiya (Series)
+**TOP MOVIE**
+How To Train Your Dragon
+- It is about a viking boy who managed to tame a dragon, however he didn't know that the dragon he tamed was one of the deadliest and rarest dragons.
 
-**MID TIER**
-1. Youjo Senki (Series)
-2. Isekai wa Smartphone to Tomo ni. (Series)
-3. Sword Art Online (Series)
-4. Darling in the Franxx (Series)
-
-**LOW TIER**
-1. Shironeko Project: ZERO CHRONICLES (Series)
+**TOP SERIES**
+Tensei Shitara Slime Datta Ken
+- It is an anime series about a young worker being reincarnated to a fantasy world as a slime, as he grew more powerful by consuming the magicules within the cave he reincarnated to, he also started getting monsters who will soon become his patriots and loyal subordinates.
